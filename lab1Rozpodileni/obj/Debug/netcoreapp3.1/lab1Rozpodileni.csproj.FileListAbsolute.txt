@@ -1,0 +1,14 @@
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\bin\Debug\netcoreapp3.1\lab1Rozpodileni.exe
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\bin\Debug\netcoreapp3.1\lab1Rozpodileni.deps.json
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\bin\Debug\netcoreapp3.1\lab1Rozpodileni.runtimeconfig.json
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\bin\Debug\netcoreapp3.1\lab1Rozpodileni.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\bin\Debug\netcoreapp3.1\lab1Rozpodileni.dll
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\bin\Debug\netcoreapp3.1\lab1Rozpodileni.pdb
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\obj\Debug\netcoreapp3.1\lab1Rozpodileni.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\obj\Debug\netcoreapp3.1\lab1Rozpodileni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\obj\Debug\netcoreapp3.1\lab1Rozpodileni.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\obj\Debug\netcoreapp3.1\lab1Rozpodileni.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\obj\Debug\netcoreapp3.1\lab1Rozpodileni.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\obj\Debug\netcoreapp3.1\lab1Rozpodileni.dll
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\obj\Debug\netcoreapp3.1\lab1Rozpodileni.pdb
+C:\Users\Ivan\Desktop\ЧНУ роботи\lab1Rozpodileni\obj\Debug\netcoreapp3.1\lab1Rozpodileni.genruntimeconfig.cache
